@@ -1,6 +1,5 @@
 # LaravelJobs
 
-![Alt text](/public/images/screen.png "LaravelJobs")
 
 ## Usage
 
